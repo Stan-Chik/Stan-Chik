@@ -1,6 +1,5 @@
 - Hi, I’m @Stan-Chik
-- I’m interested in Python
-- I’m currently learning Python, Django
+- I’m Python Developer
 
 
 <!---
